@@ -13,13 +13,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/narendra03K/Placement-Portal).
+3. Download project from github(https://github.com/anshu11n/TPC-Portal).
 
 OR follow gitbash commands
 
 cd C:\\xampp\htdocs\
 
-git clone https://github.com/narendra03K/Placement-Portal
+git clone https://github.com/anshu11n/TPC-Portal.git
 
 4. Extract files in C:\xampp\htdocs.
 
@@ -34,10 +34,6 @@ git clone https://github.com/narendra03K/Placement-Portal
 9. Browse the file in directory [placement-portal/database/db1.sql].
 
 10. Open any browser and type http://localhost/placement-portal.
-
-
-
-
 
 PROJECT SNAPSHOTS
 
